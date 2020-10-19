@@ -1,7 +1,7 @@
 # Flamingo-Animated-Website
 Modern Animated Website - Flamingo!
 
-This repository contains Modern Website Design.
+This repository contains GSAP Based Modern Website Design.
 
 Designed on HTML, CSS, JavaScript & GSAP.
 
